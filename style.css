@@ -53,17 +53,16 @@ body {
     color: #a5aec0;
 }
 
-@media (min-width: 1024px) {
-    .col-md-4 {
-        flex: 0 0 auto;
-        width: 33.3333333333% !important;
-    }
-}
-
-
 @media (min-width: 768px) {
     .col-md-4 {
         flex: 0 0 auto;
         width: 100% !important;
+    }
+}
+
+@media (min-width: 1024px) {
+    .col-md-4 {
+        flex: 0 0 auto;
+        width: 33.3333333333% !important;
     }
 }
