@@ -44,11 +44,20 @@ body {
     background-color: red;
 }
 
+.text0 {
+    font-size: 18px !important;
+    font-weight: 400;
+    color: rgba(73, 73, 221, 0.733);
+}
+
 .text1 {
     font-size: 18px !important;
     font-weight: 600;
 }
 
 .text2 {
+    font-size: 18px !important;
+    font-weight: 600;
     color: #a5aec0;
+
 }
